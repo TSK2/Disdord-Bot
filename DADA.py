@@ -15,4 +15,4 @@ async def on_message(message):
         await message.author.send ("{} | {}, User, Hello".format(message.author, message.author.mention))
 
 # 봇을 실행시키기 위한 토큰을 작성해주는 곳
-client.run('MTA1Mjg0ODM1ODkzMjM1MzEyNg.G6hCB1.cVnT1aF92nP-CHRitlsfooTeqHE4fZC_a7vVvc')
+client.run('토큰 기입')
